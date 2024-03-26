@@ -1,3 +1,8 @@
+/* NIM : 11422008
+   Nama: Mutiara Enjelina
+   Prodi: STr TRPL
+*/
+
 package models
 
 import (
