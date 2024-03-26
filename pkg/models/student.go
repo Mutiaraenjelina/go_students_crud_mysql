@@ -20,6 +20,11 @@ type Student struct {
 	IPK      string `json:"ipk"`
 	Jurusan  string `json:"jurusan"`
 	Angkatan string `json:"angkatan"`
+	Status_Aktif string `json:"status_aktif"`
+	Username string `json:"username"`
+	Email_Akademik string `json:"email_akademik`
+	Wali_Mahasiswa string `json:"wali_mahasiswa`
+	Jalur_USM string `json:"jalur_usm"`
 }
 
 func init() {
